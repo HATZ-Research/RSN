@@ -9,8 +9,12 @@ RSN - Restricted Secure Network
 > **We are not responsible for any damage caused by vulnerabilities in this project.**
 
 ## RSN Structure
+Traditional IoT devices in existing general networks have been vulnerable to attacks from both internal and external hackers.<br>
+Below is the basic structure of a network where IoT devices are managed.<br>
 
 <img src="Unsecured Network.png">
 
+However, RSN prevents hackers from directly accessing the network by utilizing a proxy system.<br>
+IoT devices can only connect to the internet through the RSN proxy, and users cannot access the RSN proxy without approval.<br>
 
 <img src="RSN Structure.png">
